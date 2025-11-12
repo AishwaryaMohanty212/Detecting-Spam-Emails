@@ -24,8 +24,6 @@ A deep learning model built with TensorFlow to classify emails as Spam or Ham (N
 5. LSTM model building and training
 6. Model evaluation and visualization
 
-The model effectively filters unwanted emails, helping users maintain clean inboxes by automatically detecting spam messages.
 
---- 
 
-This description highlights the key aspects of your project while being concise and informative for GitHub viewers.
+
